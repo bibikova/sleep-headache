@@ -1,5 +1,6 @@
 # sleep-headache
 Personal health project 
+
 The aim of the project is to analyse sleep patterns and find out if it might cause headaches (migraines).
 
 The hypothesis of my osteopath is that length of the deep sleep (in hours/minutes) if long enough might cause neck muscles to spasm which in its turn causes the headache. If this hypothesis is correct, next step can be finding out the length. 
