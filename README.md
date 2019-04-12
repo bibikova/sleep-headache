@@ -8,3 +8,6 @@ The hypothesis of my osteopath is that length of the deep sleep (in hours/minute
 The data about length of sleep as well as phases of sleep will be collected via Sleep Better app which is then integrated with Apple health and then downloaded via SQ access app. The data about headache - basically if it happens or not, possibly length and strength as additional parameters - will be added manually.  
 
 Data supposed to be exported from the app in .csv format and processed in Python. 
+
+
+After almost a monthe of use Sleep Better happened to be pretty useless when it comes to download the data, so the source of data now is a different application called Pillow. To start out, about two weeks are uploaded now to see any relations 
